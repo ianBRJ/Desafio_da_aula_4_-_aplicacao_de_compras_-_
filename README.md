@@ -1,3 +1,4 @@
+Para rodar o programa baixar apenas pasta "PRINCIPAL"
 Projeto que organiza uma lista de compras com um valor total a ser gasto, salvando o nome e vaor dos objetos.
 Salva os objetos dentro de uma lista e ao final organiza eles em ordem crescentes de valor.
 Impede uma compra acima do valor total estipulado.
